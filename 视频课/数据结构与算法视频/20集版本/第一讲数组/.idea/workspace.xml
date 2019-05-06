@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a209577-beb7-4971-ae68-3ab6d9078a8c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../C-sharp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../C-sharp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Cplusplus" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Cplusplus" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Python" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/app.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/app.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/index.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/action-sheet/action-sheet.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/action-sheet/action-sheet.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/action-sheet/action-sheet.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/action-sheet/action-sheet.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/action-sheet/action-sheet.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/action-sheet/action-sheet.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/animation/animation.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/animation/animation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/animation/animation.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/animation/animation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/background-audio/background-audio.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/background-audio/background-audio.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/background-audio/background-audio.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/background-audio/background-audio.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/background-audio/background-audio.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/background-audio/background-audio.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/canvas/canvas.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/canvas/canvas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/canvas/canvas.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/canvas/canvas.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/canvas/example.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/canvas/example.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/choose-location/choose-location.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/choose-location/choose-location.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/choose-location/choose-location.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/choose-location/choose-location.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/custom-message/custom-message.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/custom-message/custom-message.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/custom-message/custom-message.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/custom-message/custom-message.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/download-file/download-file.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/download-file/download-file.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/download-file/download-file.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/download-file/download-file.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/file/file.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/file/file.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/file/file.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/file/file.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/get-location/get-location.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/get-location/get-location.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/get-location/get-location.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/get-location/get-location.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/get-location/get-location.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/get-location/get-location.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/get-location/get-location.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/get-location/get-location.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/get-network-type/get-network-type.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/get-network-type/get-network-type.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/get-network-type/get-network-type.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/get-network-type/get-network-type.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/get-network-type/get-network-type.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/get-network-type/get-network-type.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/get-network-type/get-network-type.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/get-network-type/get-network-type.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/get-system-info/get-system-info.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/get-system-info/get-system-info.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/get-system-info/get-system-info.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/get-system-info/get-system-info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/get-user-info/get-user-info.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/get-user-info/get-user-info.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/get-user-info/get-user-info.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/get-user-info/get-user-info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/image/image.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/image/image.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/image/image.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/image/image.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/login/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/login/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/login/login.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/login/login.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/login/login.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/login/login.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/login/login.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/login/login.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/make-phone-call/make-phone-call.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/make-phone-call/make-phone-call.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/make-phone-call/make-phone-call.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/make-phone-call/make-phone-call.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/make-phone-call/make-phone-call.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/make-phone-call/make-phone-call.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/modal/modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/modal/modal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/modal/modal.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/modal/modal.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/modal/modal.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/modal/modal.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/navigation-bar-loading/navigation-bar-loading.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/navigation-bar-loading/navigation-bar-loading.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/navigation-bar-loading/navigation-bar-loading.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/navigation-bar-loading/navigation-bar-loading.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/navigation-bar-loading/navigation-bar-loading.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/navigation-bar-loading/navigation-bar-loading.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/navigator/navigator.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/navigator/navigator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/navigator/navigator.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/navigator/navigator.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/navigator/navigator.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/navigator/navigator.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/on-accelerometer-change/on-accelerometer-change.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/on-accelerometer-change/on-accelerometer-change.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/on-accelerometer-change/on-accelerometer-change.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/on-accelerometer-change/on-accelerometer-change.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/on-accelerometer-change/on-accelerometer-change.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/on-accelerometer-change/on-accelerometer-change.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/on-accelerometer-change/on-accelerometer-change.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/on-accelerometer-change/on-accelerometer-change.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/on-compass-change/on-compass-change.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/on-compass-change/on-compass-change.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/on-compass-change/on-compass-change.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/on-compass-change/on-compass-change.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/on-compass-change/on-compass-change.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/on-compass-change/on-compass-change.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/on-compass-change/on-compass-change.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/on-compass-change/on-compass-change.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/open-location/open-location.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/open-location/open-location.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/open-location/open-location.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/open-location/open-location.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/pull-down-refresh/pull-down-refresh.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/pull-down-refresh/pull-down-refresh.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/pull-down-refresh/pull-down-refresh.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/pull-down-refresh/pull-down-refresh.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/pull-down-refresh/pull-down-refresh.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/pull-down-refresh/pull-down-refresh.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/pull-down-refresh/pull-down-refresh.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/pull-down-refresh/pull-down-refresh.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/request-payment/request-payment.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/request-payment/request-payment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/request-payment/request-payment.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/request-payment/request-payment.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/request-payment/request-payment.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/request-payment/request-payment.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/request-payment/request-payment.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/request-payment/request-payment.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/request/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/request/request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/request/request.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/request/request.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/scan-code/scan-code.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/scan-code/scan-code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/scan-code/scan-code.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/scan-code/scan-code.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/set-navigation-bar-title/set-navigation-bar-title.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/set-navigation-bar-title/set-navigation-bar-title.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/set-navigation-bar-title/set-navigation-bar-title.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/set-navigation-bar-title/set-navigation-bar-title.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/set-navigation-bar-title/set-navigation-bar-title.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/set-navigation-bar-title/set-navigation-bar-title.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/set-navigation-bar-title/set-navigation-bar-title.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/set-navigation-bar-title/set-navigation-bar-title.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/share/share.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/share/share.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/share/share.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/share/share.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/storage/storage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/storage/storage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/storage/storage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/storage/storage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/template-message/template-message.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/template-message/template-message.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/toast/toast.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/toast/toast.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/toast/toast.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/toast/toast.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/toast/toast.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/toast/toast.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/upload-file/upload-file.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/upload-file/upload-file.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/upload-file/upload-file.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/upload-file/upload-file.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/video/video.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/video/video.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/video/video.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/video/video.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/video/video.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/video/video.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/voice/voice.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/voice/voice.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/voice/voice.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/voice/voice.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/voice/voice.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/voice/voice.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/web-socket/web-socket.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/web-socket/web-socket.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/web-socket/web-socket.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/API/pages/web-socket/web-socket.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/common/foot.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/common/foot.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/common/head.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/common/head.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/common/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/common/index.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/common/lib/weui.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/common/lib/weui.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/index.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/audio/audio.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/audio/audio.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/audio/audio.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/audio/audio.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/audio/audio.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/audio/audio.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/button/button.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/button/button.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/button/button.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/button/button.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/button/button.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/button/button.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/button/button.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/button/button.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/canvas/canvas.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/canvas/canvas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/canvas/canvas.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/canvas/canvas.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/canvas/canvas.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/canvas/canvas.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/canvas/canvas.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/canvas/canvas.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/checkbox/checkbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/checkbox/checkbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/checkbox/checkbox.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/checkbox/checkbox.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/checkbox/checkbox.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/checkbox/checkbox.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/checkbox/checkbox.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/checkbox/checkbox.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/form/form.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/form/form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/form/form.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/form/form.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/form/form.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/form/form.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/form/form.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/form/form.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/icon/icon.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/icon/icon.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/icon/icon.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/icon/icon.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/icon/icon.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/icon/icon.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/image/image.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/image/image.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/image/image.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/image/image.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/image/image.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/image/image.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/image/image.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/image/image.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/input/input.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/input/input.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/input/input.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/input/input.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/input/input.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/input/input.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/input/input.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/input/input.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/label/label.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/label/label.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/label/label.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/label/label.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/label/label.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/label/label.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/label/label.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/label/label.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/map/map.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/map/map.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/map/map.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/map/map.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/map/map.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/map/map.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/navigator/navigate.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/navigator/navigate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/navigator/navigate.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/navigator/navigate.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/navigator/navigate.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/navigator/navigate.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/navigator/navigator.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/navigator/navigator.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/navigator/navigator.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/navigator/navigator.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/navigator/navigator.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/navigator/navigator.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/navigator/redirect.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/navigator/redirect.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/navigator/redirect.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/navigator/redirect.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/navigator/redirect.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/navigator/redirect.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/picker/picker.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/picker/picker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/picker/picker.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/picker/picker.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/progress/progress.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/progress/progress.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/progress/progress.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/progress/progress.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/progress/progress.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/progress/progress.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/progress/progress.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/progress/progress.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/radio/radio.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/radio/radio.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/radio/radio.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/radio/radio.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/radio/radio.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/radio/radio.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/radio/radio.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/radio/radio.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/scroll-view/scroll-view.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/scroll-view/scroll-view.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/scroll-view/scroll-view.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/scroll-view/scroll-view.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/scroll-view/scroll-view.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/scroll-view/scroll-view.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/scroll-view/scroll-view.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/scroll-view/scroll-view.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/slider/slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/slider/slider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/slider/slider.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/slider/slider.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/slider/slider.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/slider/slider.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/swiper/swiper.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/swiper/swiper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/swiper/swiper.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/swiper/swiper.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/switch/switch.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/switch/switch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/switch/switch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/switch/switch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/switch/switch.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/switch/switch.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/text/text.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/text/text.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/text/text.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/text/text.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/text/text.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/text/text.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/textarea/textarea.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/textarea/textarea.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/textarea/textarea.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/textarea/textarea.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/textarea/textarea.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/textarea/textarea.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/textarea/textarea.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/textarea/textarea.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/video/video.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/video/video.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/video/video.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/video/video.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/view/view.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/view/view.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/view/view.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/view/view.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/view/view.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/view/view.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/view/view.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/page/component/pages/view/view.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/project.config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/util/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/util/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/vendor/qcloud-weapp-client-sdk/.bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/vendor/qcloud-weapp-client-sdk/.bower.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/vendor/qcloud-weapp-client-sdk/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/vendor/qcloud-weapp-client-sdk/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/vendor/qcloud-weapp-client-sdk/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/vendor/qcloud-weapp-client-sdk/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/vendor/qcloud-weapp-client-sdk/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/vendor/qcloud-weapp-client-sdk/bower.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/vendor/qcloud-weapp-client-sdk/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/vendor/qcloud-weapp-client-sdk/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/vendor/qcloud-weapp-client-sdk/lib/constants.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/vendor/qcloud-weapp-client-sdk/lib/constants.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/vendor/qcloud-weapp-client-sdk/lib/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/vendor/qcloud-weapp-client-sdk/lib/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/vendor/qcloud-weapp-client-sdk/lib/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/vendor/qcloud-weapp-client-sdk/lib/request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/vendor/qcloud-weapp-client-sdk/lib/session.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/vendor/qcloud-weapp-client-sdk/lib/session.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/vendor/qcloud-weapp-client-sdk/lib/tunnel.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/vendor/qcloud-weapp-client-sdk/lib/tunnel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/vendor/qcloud-weapp-client-sdk/lib/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/vendor/qcloud-weapp-client-sdk/lib/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/vendor/qcloud-weapp-client-sdk/lib/wxTunnel.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/demo/vendor/qcloud-weapp-client-sdk/lib/wxTunnel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/weicms/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/weicms/project.config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../WeChat/小程序/weicms1/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../WeChat/小程序/weicms1/project.config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ZYK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../booksource-master/chapter10/ServiceBestPractice/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../booksource-master/chapter10/ServiceBestPractice/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../booksource-master/chapter10/ServiceBestPractice/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../booksource-master/chapter10/ServiceBestPractice/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../booksource-master/chapter10/ServiceBestPractice/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../booksource-master/chapter10/ServiceBestPractice/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../booksource-master/chapter11/LBSTest/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../booksource-master/chapter11/LBSTest/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../booksource-master/chapter11/LBSTest/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../booksource-master/chapter11/LBSTest/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../booksource-master/chapter12/MaterialTest/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../booksource-master/chapter12/MaterialTest/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../booksource-master/chapter12/MaterialTest/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../booksource-master/chapter12/MaterialTest/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../booksource-master/chapter12/MaterialTest/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../booksource-master/chapter12/MaterialTest/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../github/GitHub-study" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../web" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../web" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../wechat_devtools_1.02.1807200_x64.exe" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TestArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MyArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+              <folding>
+                <element signature="e#161#162#0" expanded="true" />
+                <element signature="e#198#199#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch01.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TestMyArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/TestArray.java" />
+        <option value="$PROJECT_DIR$/src/MyArray.java" />
+        <option value="$PROJECT_DIR$/src/TestMyArray.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="652" />
+    <option name="y" value="112" />
+    <option name="width" value="945" />
+    <option name="height" value="899" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ch01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第一讲数组" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ch01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第一讲数组" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548424992590" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestMyArray">
+    <configuration name="TestArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestArray" />
+      <module name="ch01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestMyArray" />
+      <module name="ch01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestMyArray" />
+        <item itemvalue="Application.TestArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a209577-beb7-4971-ae68-3ab6d9078a8c" name="Default Changelist" comment="" />
+      <created>1548398002405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548398002405</updated>
+      <workItem from="1548398008695" duration="3569000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3569000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.329718" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ch01.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+          <folding>
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestMyArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
